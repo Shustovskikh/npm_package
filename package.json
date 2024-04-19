@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Shustovskikh/npm_package/issues"
   },
-  "homepage": "https://github.com/Shustovskikh/npm_package#readme"
+  "homepage": "https://github.com/Shustovskikh/npm_package#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "core-js": "^3.37.0"
+  }
 }
